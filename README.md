@@ -1,7 +1,7 @@
 # Interactive4D: Interactive 4D LiDAR Segmentation
 
 <div align="center">
-<a href="https://github.com/Ilya-Fradlin/">Ilya Fradlin</a>, 
+<a href="https://github.com/ifradlin/">Ilya Fradlin</a>, 
 <a href="https://www.vision.rwth-aachen.de/person/245/">Idil Esen Zulfikar</a>, 
 <a href="https://github.com/YilmazKadir/">Kadir Yilmaz</a>, 
 <a href="https://theodorakontogianni.github.io/"> Theodora Kontogianni </a>, 
@@ -77,7 +77,7 @@ You can set up a conda environment as follows:
 #### Step 1: Create an environment
 
 ```shell
-git clone https://github.com/Ilya-Fradlin/Interactive4D.git
+git clone https://github.com/ifradlin/Interactive4D.git
 cd Interactive4D
 ```
 

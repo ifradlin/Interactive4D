@@ -176,6 +176,6 @@ We hope this tool accelerates your 3D labeling process and helps in generating h
 
 ---
 
-If you encounter any issues, open an [issue on GitHub](https://github.com/Ilya-Fradlin/Interactive4D/issues) or reach out to the maintainers.
+If you encounter any issues, open an [issue on GitHub](https://github.com/ifradlin/Interactive4D/issues) or reach out to the maintainers.
 
 Our implementation builds on the [AGILE3D](https://github.com/ywyue/AGILE3D) interactive tool. We have adapted it for **large-scale, sparse outdoor domains**. For indoor segmentation, additional functionalities and additional examples, please refer to the original [AGILE3D segmentation tool](https://github.com/ywyue/AGILE3D/blob/main/demo.md).
